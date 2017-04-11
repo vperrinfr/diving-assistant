@@ -6,4 +6,6 @@ This application demonstrates the value of [IBM Watson Conversation service](htt
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/vperrinfr/diving-assistant)
 
-[![image](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/mV9YrD1yVDE)
+Click on the image to see a demo:
+
+[![image](https://cloud.githubusercontent.com/assets/9534938/24900383/fc8f18d8-1ea3-11e7-8c87-0944b99cca7b.png)](https://youtu.be/mV9YrD1yVDE)
