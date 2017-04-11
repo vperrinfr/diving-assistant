@@ -1,4 +1,4 @@
-# Node.js Facebook Messenger Bot [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)
+# Node.js Facebook Messenger Bot ![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vperrin/diving-assistant/issues)
 
